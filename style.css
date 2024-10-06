@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fredoka;
+}
+
+header {
+    background-color: #50cce5;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.primeira img {
+    width: 20rem;
+}
+
+.primeira {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.primeira p {
+    max-width: 20rem;
+}
+
+.segunda {
+    margin-top: 10rem;
+    background-color: #50cce5;
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.segunda img {
+    height: 20rem;
+    width: 15rem;
+}
+
+.segunda p {
+    max-width: 30rem;
+    
+}
+
+.terceira img {
+    height: 40rem;
+    width: 30rem;
+    margin-bottom: 2rem;
+}
+
+.terceira {
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
